@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdlib>
 
 // Struct que cria uma lista
 struct Lista {
